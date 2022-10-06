@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 5rem;
+    background-color: #000;
+    background-image: url(capsule_616x353.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.from-Login {
+  max-width: 25rem;
+  margin: auto;
+}
